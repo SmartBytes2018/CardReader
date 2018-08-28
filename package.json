@@ -1,0 +1,13 @@
+{
+  "name": "com.chariotsolutions.nfc.demo.p2p",
+  "version": "0.1.0",
+  "displayName": "P2PDemo",
+  "cordova": {
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}

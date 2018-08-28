@@ -1,0 +1,28 @@
+{
+  "com.blackberry.invoke": {
+    "source": {
+      "type": "local",
+      "path": "/var/folders/d7/l_4xwx_j3ys3_9yg0rvggdvr0000gn/T/com.blackberry.invoke/package"
+    }
+  },
+  "com.chariotsolutions.nfc.plugin": {
+    "source": {
+      "type": "git",
+      "url": "https://github.com/chariotsolutions/phonegap-nfc",
+      "subdir": "."
+    }
+  },
+  "com.chariotsolutions.toast.plugin": {
+    "source": {
+      "type": "git",
+      "url": "https://github.com/don/Toasty",
+      "subdir": "."
+    }
+  },
+  "org.apache.cordova.vibration": {
+    "source": {
+      "type": "local",
+      "path": "/var/folders/d7/l_4xwx_j3ys3_9yg0rvggdvr0000gn/T/org.apache.cordova.vibration/package"
+    }
+  }
+}
